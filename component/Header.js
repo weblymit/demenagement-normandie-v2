@@ -14,7 +14,7 @@ const Header = () => {
 			<div className="flex flex-col items-center justify-center min-h-screenr  bg-green-500 text-center">
 				<Navigation />
 				<div className="pt-48 pb-52">
-					<h1 className="text-7xl font-bold pb-4 container">
+					<h1 className="text-xl	lg:text-7xl font-bold pb-4 container">
 						Déménagement Normandie
 					</h1>
 					<p className="text-3xl">

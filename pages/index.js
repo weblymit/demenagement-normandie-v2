@@ -1,7 +1,7 @@
 // import styles from '../styles/Home.module.css';
 import Header from '../component/Header';
 import SectionOne  from '../component/homePage/SectionOne';
-import SectionTwo   from '../component/homePage/SectionTwoNosServices';
+import SectionTwoNosServices   from '../component/homePage/SectionTwoNosServices';
 import SectionPourquoiNous   from '../component/homePage/SectionPourquoiNous';
 import CommentCaMarche from '../component/homePage/CommentCaMarche';
 
@@ -13,7 +13,7 @@ export default function Home() {
 				<SectionOne />
 			</div>
 			<div className="py-28">
-				<SectionTwo />
+				<SectionTwoNosServices />
 			</div>
 			<div className=" bg-blue-100 py-28">
 				<SectionPourquoiNous />
